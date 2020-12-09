@@ -24,4 +24,4 @@ O código-fonte deve ser disponibilizado em um repositório público, como o Git
 
 Execute: docker run -p 8080:8080 fsilva90/desafio-digital-ibm:0.0.1-SNAPSHOT
 GitHub: https://github.com/fsilva90/desafio-digital-ibm
-DockerHub: 
+DockerHub: https://hub.docker.com/repository/docker/fsilva90/desafio-digital-ibm
